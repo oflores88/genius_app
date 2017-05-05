@@ -1,3 +1,2 @@
-puts 'Hello world'
-puts 'another one'
-puts "hello Oscar"
+puts "hello world"
+puts "wasssssssup"
